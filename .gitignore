@@ -1,0 +1,14 @@
+# .gitignore
+
+# Ambiente Virtual
+.venv
+venv/
+__pycache__/
+
+# Arquivos do Django
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+
+media
