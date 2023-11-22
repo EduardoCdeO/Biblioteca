@@ -64,7 +64,7 @@ source venv/bin/activate
 
 # Instale as dependências
 ```bash
-pip freeze > requirements.txt
+pip install -r requirements.txt
 ```
 
 # Configure o banco de dados
