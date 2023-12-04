@@ -35,6 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <img src="/Imagens-Projeto/Imagem5.jpeg">
 
 # Clonando o Projeto
+Requisitos: Python, Django e Git instalados. <br><br>
 Abra Git Bash.<br>
 Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
 ```bash
@@ -42,7 +43,7 @@ git clone https://github.com/EduardoCdeO/Biblioteca.git
 ```
 
 # Configurando ambiente virtual(opcional, mas recomendado)
-Abra seu terminal e entre na pasta (altere o caminho-do-diretório pelo nome do local em que você clonou o repositório)<br>
+Abra seu terminal e entre na pasta (altere o caminho-do-diretório pelo caminho do local em que você clonou o repositório)<br>
 ```bash
 cd caminho-do-diretório/Biblioteca
 ```
