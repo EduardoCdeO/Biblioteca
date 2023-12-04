@@ -42,9 +42,9 @@ git clone https://github.com/EduardoCdeO/Biblioteca.git
 ```
 
 # Configurando ambiente virtual(opcional, mas recomendado)
-Abra seu terminal e entre na pasta (altere o nome-do-diretório pelo nome do local em que você clonou o repositório)<br>
+Abra seu terminal e entre na pasta (altere o caminho-do-diretório pelo nome do local em que você clonou o repositório)<br>
 ```bash
-cd nome-do-diretório/Biblioteca
+cd caminho-do-diretório/Biblioteca
 ```
 ## Criando o ambiente virtual:
 ```bash
